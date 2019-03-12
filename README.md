@@ -1,0 +1,1 @@
+Example code für HATEOAS+HAL with Spring.
